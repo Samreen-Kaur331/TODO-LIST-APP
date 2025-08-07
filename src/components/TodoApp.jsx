@@ -41,7 +41,7 @@ export default function TodoApp() {
           placeholder="Enter a task"
           style={styles.input}
         />
-        <button onClick={handleAdd} style={styles.addBtn}>Add</button>
+        <button onClick={handleAdd} style={styles.addBtn}>ADD</button>
       </div>
 
       <ul style={styles.list}>
